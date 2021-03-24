@@ -1,6 +1,6 @@
 import React from 'react'
 
-import './project.css'
+import '../styles/project.css'
 
 const Project = ({name, link, photo}) => {
     return <div class = 'project'>

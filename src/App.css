@@ -7,6 +7,22 @@
 }
 
 
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  margin: 32px;
+  height: 100vh;
+}
+
+.next {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -14,7 +30,6 @@ ul {
   display: flex;
   background: rgb(255, 123, 145);
 }
-
 
 li a {
   display: block;

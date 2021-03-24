@@ -1,6 +1,6 @@
 import React from 'react'
 
-import './resume.css'
+import '../styles/resume.css'
 
 import pdf from './Moises_Trejo_Resume.pdf';
 
