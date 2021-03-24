@@ -13,4 +13,12 @@
     border-radius: 32px;
     color: black;
     margin: 32px;
+    width: 600px;
+}
+
+.projects {
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
 }
