@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/web_pre/static/css/main.544202d5.chunk.css",
-    "main.js": "/web_pre/static/js/main.e758e68a.chunk.js",
-    "main.js.map": "/web_pre/static/js/main.e758e68a.chunk.js.map",
-    "runtime-main.js": "/web_pre/static/js/runtime-main.70dc2e04.js",
-    "runtime-main.js.map": "/web_pre/static/js/runtime-main.70dc2e04.js.map",
+    "main.css": "/web_pre/static/css/main.3c39244d.chunk.css",
+    "main.js": "/web_pre/static/js/main.b3ec4753.chunk.js",
+    "main.js.map": "/web_pre/static/js/main.b3ec4753.chunk.js.map",
+    "runtime-main.js": "/web_pre/static/js/runtime-main.8ce67d59.js",
+    "runtime-main.js.map": "/web_pre/static/js/runtime-main.8ce67d59.js.map",
     "static/css/2.658248ec.chunk.css": "/web_pre/static/css/2.658248ec.chunk.css",
-    "static/js/2.42176845.chunk.js": "/web_pre/static/js/2.42176845.chunk.js",
-    "static/js/2.42176845.chunk.js.map": "/web_pre/static/js/2.42176845.chunk.js.map",
-    "static/js/3.3397945a.chunk.js": "/web_pre/static/js/3.3397945a.chunk.js",
-    "static/js/3.3397945a.chunk.js.map": "/web_pre/static/js/3.3397945a.chunk.js.map",
+    "static/js/2.cdbc9075.chunk.js": "/web_pre/static/js/2.cdbc9075.chunk.js",
+    "static/js/2.cdbc9075.chunk.js.map": "/web_pre/static/js/2.cdbc9075.chunk.js.map",
+    "static/js/3.78208dfa.chunk.js": "/web_pre/static/js/3.78208dfa.chunk.js",
+    "static/js/3.78208dfa.chunk.js.map": "/web_pre/static/js/3.78208dfa.chunk.js.map",
     "index.html": "/web_pre/index.html",
     "static/css/2.658248ec.chunk.css.map": "/web_pre/static/css/2.658248ec.chunk.css.map",
-    "static/css/main.544202d5.chunk.css.map": "/web_pre/static/css/main.544202d5.chunk.css.map",
-    "static/js/2.42176845.chunk.js.LICENSE.txt": "/web_pre/static/js/2.42176845.chunk.js.LICENSE.txt",
+    "static/css/main.3c39244d.chunk.css.map": "/web_pre/static/css/main.3c39244d.chunk.css.map",
+    "static/js/2.cdbc9075.chunk.js.LICENSE.txt": "/web_pre/static/js/2.cdbc9075.chunk.js.LICENSE.txt",
     "static/media/Moises_Trejo_Resume.e25f65bf.pdf": "/web_pre/static/media/Moises_Trejo_Resume.e25f65bf.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.70dc2e04.js",
+    "static/js/runtime-main.8ce67d59.js",
     "static/css/2.658248ec.chunk.css",
-    "static/js/2.42176845.chunk.js",
-    "static/css/main.544202d5.chunk.css",
-    "static/js/main.e758e68a.chunk.js"
+    "static/js/2.cdbc9075.chunk.js",
+    "static/css/main.3c39244d.chunk.css",
+    "static/js/main.b3ec4753.chunk.js"
   ]
 }
